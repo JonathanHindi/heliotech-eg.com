@@ -1,0 +1,11 @@
+<script type="text/javascript" src="thickbox/jquery.js"></script>
+<script type="text/javascript" src="thickbox/thickbox.js"></script>
+
+
+<link rel="stylesheet" href="thickbox/thickbox.css" type="text/css" media="screen" />
+
+class="thickbox"
+
+<a href="ajaxOverFlow.htm?keepThis=true&TB_iframe=true&height=300&width=500" title="add a caption to title attribute / or leave blank" class="thickbox">Example 2</a>
+
+?keepThis=true&TB_iframe=true&height=700&width=1000"class="thickbox"

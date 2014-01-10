@@ -1,0 +1,67 @@
+@charset "utf-8";
+/* CSS Document */
+
+#contact_form {
+border: 1px solid #555;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+margin: 100px auto;
+width: 380px;
+padding: 20px
+}
+.text_input {
+background: #e7e7e7;
+height: 20px;
+width: 355px;
+padding: 10px;
+margin: 0 0 20px 0;
+border: 1px solid #555;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+font-size: 16px
+}
+.text_area {
+background: #e7e7e7;
+width: 355px;
+padding: 10px;
+margin: 0 0 20px 0;
+border: 1px solid #555;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+font-family: Verdana,Geneva,sans-serif;
+font-size: 16px
+}
+.submit {
+float: left;
+height: 37px;
+width: 109px;
+background: #fff;
+padding: 0 0 3px 0;
+border: 1px solid #555;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+font-size: 13px;
+color: #333;
+font-weight: bold
+}
+.submit:hover {
+cursor: pointer
+}
+.error {
+padding:10px;
+border:1px solid red;
+margin:5px auto;
+text-align:center;
+font-size: 18px;
+color: #0081D3;
+line-height: 40px
+}
+#success{
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+border: 1px solid #555;
+background:#e7e7e7;
+padding:5px;
+}
+#success h3{font-size:24px;font-family:Garamond,Hoefler Text,Palatino,Palatino Linotype,serif;text-align:center;}
+#success p{text-align:center;font-size:18px;line-height:22px;font-family:Helvetica Neue,Arial,Helvetica, sans-serif;}
